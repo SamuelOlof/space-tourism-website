@@ -54,6 +54,7 @@ function App() {
         )}
 
         <div className='app__menu-navbar-container'>
+          <div className='app__menu-navbar-line'></div>
           <ul className='app__menu-navbar-links'>
             <li>
               <Link className='link' to="/"> Home </Link>
